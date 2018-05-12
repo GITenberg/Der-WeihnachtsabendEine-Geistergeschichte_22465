@@ -1,0 +1,46 @@
+_repo: Der-WeihnachtsabendEine-Geistergeschichte_22465
+_version: 0.1.0
+alternative_title: A Christmas carol. German
+contributor:
+  translator:
+    agent_name: Seybt, Julius
+    gutenberg_agent_id: '25338'
+    url: http://www.gutenberg.org/2009/agents/25338
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Dickens, Charles John Huffam
+    - Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2007-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22465'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scrooge, Ebenezer (Fictitious character) -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'Ghost stories'
+- !lcsh 'Misers -- Fiction'
+- !lcsh 'Christmas stories'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Sick children -- Fiction'
+title: 'Der Weihnachtsabend
+
+  Eine Geistergeschichte'
+url: http://www.gutenberg.org/ebooks/22465
